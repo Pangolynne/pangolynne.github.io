@@ -20,14 +20,16 @@ layout: default
     <div class="text-sm pt-4 flex flex-wrap justify-center-safe gap-1">
       {% if page.categories %}
         {% for category in page.categories %}
-          <a href="{{ '/category/' | append: category | relative_url }}" class="border border-taupe-400/80 hover:border-green-800 rounded-sm py-1 px-2 no-underline capitalize text-taupe-400">
-            🗃️ {% include display-name.html type="category" name=category %}
+          <a href="{{ '/category/' | append: category | relative_url }}"
+            class="border border-taupe-400/80 hover:border-green-800 rounded-sm py-1 px-2 no-underline capitalize text-taupe-400">
+            🗃️ {% include display-name.html type="categories" name=category %}
           </a>
         {% endfor %}
       {% endif %}
       {% if page.tags %}
         {% for tag in page.tags %}
-          <a href="{{ '/tag/' | append: tag | relative_url }}" class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
+          <a href="{{ '/tag/' | append: tag | relative_url }}"
+            class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
             {% include display-name.html type="tags" name=tag %}
           </a>
         {% endfor %}
