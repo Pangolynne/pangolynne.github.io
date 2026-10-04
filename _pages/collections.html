@@ -1,0 +1,31 @@
+---
+layout: default
+title: Collections
+redirect_from:
+  - /category/
+  - /tag/
+---
+
+<section class="max-w-2xl mx-auto">
+  <h1 class="text-center">Collections</h1>
+</section>
+
+<section class="max-w-2xl mx-auto">
+  <h2 class="text-center">Categories</h2>
+  <div class="flex flex-wrap justify-center-safe gap-2">
+    {% assign sorted_cats = site.categories | sort %}
+    {% for cat in sorted_cats %}
+      <a href="{{ cat[0] | slugify | prepend: '/category/' | append: '/' | relative_url }}" class="border hover:border-green-800 rounded-sm py-1 px-2 no-underline capitalize">{{ cat[0] | replace: "-", " " }} ({{ cat[1].size }})</a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="max-w-2xl mx-auto">
+  <h2 class="text-center">Tags</h2>
+  <div class="flex flex-wrap justify-center-safe gap-2">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+      <a href="{{ tag[0] | slugify | prepend: '/tag/' | append: '/' | relative_url }}" class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">{{ tag[0] | replace: "-", " " }} ({{ tag[1].size }})</a>
+    {% endfor %}
+  </div>
+</section>

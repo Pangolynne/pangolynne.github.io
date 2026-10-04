@@ -1,0 +1,7 @@
+{% assign key = include.name | slugify %}
+{% assign custom = site.data.names[include.type][key] %}
+{% if custom %}
+  {{ custom }}
+{% else %}
+  {{ include.name | replace: "-", " " }}
+{% endif %}

@@ -1,0 +1,4 @@
+{% assign seed = post.date | date: "%s" | plus: forloop.index | times: 7919 %}
+{% assign rot = seed | modulo: 21 | minus: 10 %}
+{% assign dx = seed | divided_by: 13 | modulo: 31 | minus: 15 %}
+{% assign dy = seed | divided_by: 401 | modulo: 31 | minus: 15 %}

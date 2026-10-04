@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<header class="mx-auto max-w-2xl pb-8 md:pb-12 flex flex-col items-center">
+  <img src="/assets/images/pangolynne.jpg" alt="Pangolynne" class="rounded-full size-20">
+  <h1 class="mb-2!">Danny Hillyer</h1>
+  <p class="text-center">An occasional auto photographer and amateur model kit builder.</p>
+</header>
+
+<section>
+  <h2 class="text-center">Recent events</h2>
+
+  <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 not-prose">
+    {% for post in site.posts limit:9 %}
+      {% include randomiser.html %}
+
+      {% include card.html post=post %}
+    {% endfor %}
+  </div>
+
+  <div class="mt-12 text-center">
+    <a href="{{ '/events' | relative_url }}" class="bg-taupe-300 hover:bg-green-800 text-neutral-900 hover:text-neutral-100 rounded-md no-underline p-3">See all events</a>
+  </div>
+</section>

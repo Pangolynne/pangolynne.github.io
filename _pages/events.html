@@ -1,0 +1,20 @@
+---
+layout: default
+title: Events
+---
+
+<section>
+  <h1 class="text-center">Events I've shot</h1>
+  {% assign by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+  {% for year in by_year %}
+    <h2 class="mb-2 text-center">{{ year.name }}</h2>
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 not-prose">
+    {% for post in year.items %}
+      {% include randomiser.html %}
+      
+      {% include card.html post=post %}
+    {% endfor %}
+    </div>
+  {% endfor %}
+  </div>
+</section>

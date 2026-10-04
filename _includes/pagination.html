@@ -1,0 +1,29 @@
+{% if paginator.total_pages > 1 %}
+<nav class="mt-12 flex items-center justify-center gap-2 text-sm" aria-label="Pagination">
+  {% if paginator.previous_page %}
+    <a class="rounded px-3 py-1 hover:bg-neutral-800" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
+  {% endif %}
+
+  {% if paginator.page_trail.first.num != 1 %}
+    <a class="rounded px-3 py-1 hover:bg-neutral-800" href="{{ paginator.first_page_path | relative_url }}">1</a>
+    <span class="text-neutral-500">&hellip;</span>
+  {% endif %}
+
+  {% for trail in paginator.page_trail %}
+    {% if trail.num == paginator.page %}
+      <span class="rounded bg-neutral-700 px-3 py-1 font-semibold" aria-current="page">{{ trail.num }}</span>
+    {% else %}
+      <a class="rounded px-3 py-1 hover:bg-neutral-800" href="{{ trail.path | relative_url }}" title="{{ trail.title }}">{{ trail.num }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.page_trail.last.num != paginator.total_pages %}
+    <span class="text-neutral-500">&hellip;</span>
+    <a class="rounded px-3 py-1 hover:bg-neutral-800" href="{{ paginator.last_page_path | relative_url }}">{{ paginator.total_pages }}</a>
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a class="rounded px-3 py-1 hover:bg-neutral-800" href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>
+  {% endif %}
+</nav>
+{% endif %}

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1 class="text-center font-bold">
+  Posts tagged
+  <span class="border border-taupe-400 hover:border-green-800 rounded-md py-1 px-2 capitalize">
+    {% include display-name.html type="tags" name=page.autopages.display_name %}
+  </span>
+</h1>
+
+<div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 p-4 not-prose">
+  {% for post in paginator.posts %}
+    {% include randomiser.html %} 
+    
+    {% include card.html post=post %}
+  {% endfor %}
+</div>
+
+{% include pagination.html %}
