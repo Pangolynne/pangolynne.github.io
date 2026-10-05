@@ -25,6 +25,7 @@ You need to do 2 things to add a new event with photos!
    Name the file `YYYY-MM-DD-event-name.md` with no spaces or special characters.
    Configure the frontmatter (the content at the top) as below:
 
+   ```
    ---
    layout: post
    title: "[title of the event]"
@@ -35,5 +36,6 @@ You need to do 2 things to add a new event with photos!
    image: [The image you want to use as the cover image]
    gallery: /assets/images/[the folder with the photos]/
    ---
+   ```
 
 Once you have added all your event information, you need to commit the changes and then push them up to Github. After a few minutes the post will appear on your website!
