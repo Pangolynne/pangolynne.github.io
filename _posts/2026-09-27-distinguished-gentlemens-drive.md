@@ -3,10 +3,31 @@ layout: post
 title: "The Distinguished Gentleman's Drive"
 location: Marque Collective
 categories: meets
-tags: classics dodge mercedes porsche alfaromeo triumph ford bmw
+tags: [classics,cruises,fundraiser]
 
 image: /assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg
-gallery: /assets/images/2026-09-27-distinguished-gentlemans-drive/
+
+photos:
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg
+    tags: [dodge]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/02.jpg
+    tags: [porsche,mercedes]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/03.jpg
+    tags: [alfaromeo]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/04.jpg
+    tags: [chevrolet]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/05.jpg
+    tags: [porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/06.jpg
+    tags: [triumph]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/07.jpg
+    tags: [ford]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/08.jpg
+    tags: [bmw,porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/09.jpg
+    tags: [jaguar,cadillac,mercedes]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/10.jpg
+    tags: [shelby]
 ---
 
 An on-road motoring fundraising event, uniting classic cars built 40 years or older, encouraging drivers and passengers around the world to dress dapper and drive for men's health.
