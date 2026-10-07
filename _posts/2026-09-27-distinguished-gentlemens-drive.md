@@ -5,7 +5,7 @@ location: Marque Collective
 categories: meets
 tags: classics dodge mercedes porsche alfaromeo triumph ford bmw
 
-image: "/assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg"
+image: /assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg
 gallery: /assets/images/2026-09-27-distinguished-gentlemans-drive/
 ---
 
