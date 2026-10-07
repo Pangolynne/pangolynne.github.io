@@ -38,6 +38,8 @@ pagination:
     before: 2
     after: 2
 
+photo_tag_per_page: 24
+
 autopages:
   enabled: true
   tags:

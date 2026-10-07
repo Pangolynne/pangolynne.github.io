@@ -3,5 +3,5 @@
 {% if custom %}
   {{ custom }}
 {% else %}
-  {{ include.name | replace: "-", " " }}
+  {{ include.name | replace: "-", " " | capitalize }}
 {% endif %}

@@ -21,7 +21,7 @@ layout: default
       {% if page.categories %}
         {% for category in page.categories %}
           <a href="{{ '/category/' | append: category | relative_url }}"
-            class="border border-taupe-400/80 hover:border-green-800 rounded-sm py-1 px-2 no-underline capitalize text-taupe-400">
+            class="border border-taupe-400/80 hover:border-green-800 rounded-sm py-1 px-2 no-underline text-taupe-400">
             🗃️ {% include display-name.html type="categories" name=category %}
           </a>
         {% endfor %}
@@ -29,8 +29,26 @@ layout: default
       {% if page.tags %}
         {% for tag in page.tags %}
           <a href="{{ '/tag/' | append: tag | relative_url }}"
-            class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
-            {% include display-name.html type="tags" name=tag %}
+            class="bg-taupe-500 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline">
+            🏷️ {% include display-name.html type="tags" name=tag %}
+          </a>
+        {% endfor %}
+      {% endif %}
+
+      {% assign post_tags = "" | split: "" %}
+      {% for photo in page.photos %}
+        {% if photo.tags %}
+          {% assign post_tags = post_tags | concat: photo.tags %}
+        {% endif %}
+      {% endfor %}
+      {% assign post_tags = post_tags | uniq | sort %}
+
+      {% if post_tags.size > 0 %}
+        <!-- <span class="py-1 px-2 text-taupe-400">sdf</span> -->
+        {% for tag in post_tags %}
+          <a href="{{ tag | slugify | prepend: '/photos/' | append: '/' | relative_url }}"
+            class="bg-taupe-400/80 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
+            🚗 {% include display-name.html type="tags" name=tag %}
           </a>
         {% endfor %}
       {% endif %}
@@ -38,14 +56,10 @@ layout: default
   </section>
 </article>
 
-{% if page.gallery %}
+{% if page.photos %}
   <section class="mt-12 columns-2 gap-4 md:columns-3 not-prose">
-    {% assign photos = site.static_files | where_exp: "f", "f.path contains page.gallery" %}
-    {% for f in photos %}
-      {% assign ext = f.extname | downcase %}
-      {% if ext == ".jpg" or ext == ".jpeg" or ext == ".png" or ext == ".webp" %}
-        <img class="mb-4" src="{{ f.path | relative_url }}" loading="lazy" decoding="async">
-      {% endif %}
+    {% for photo in page.photos %}
+      <img class="mb-4 w-full break-inside-avoid rounded" src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy" decoding="async">
     {% endfor %}
   </section>
 

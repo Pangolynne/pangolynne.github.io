@@ -4,6 +4,7 @@ title: Collections
 redirect_from:
   - /category/
   - /tag/
+  - /photos/
 ---
 
 <section class="max-w-2xl mx-auto">
@@ -25,7 +26,7 @@ redirect_from:
 </section>
 
 <section class="max-w-2xl mx-auto">
-  <h2 class="text-center">Tags</h2>
+  <h2 class="text-center">Post tags</h2>
   <div class="flex flex-wrap justify-center-safe gap-2">
     {% assign sorted_tags = site.tags | sort %}
     {% for tag in sorted_tags %}
@@ -33,6 +34,28 @@ redirect_from:
       <a href="{{ tag[0] | slugify | prepend: '/tag/' | append: '/' | relative_url }}"
         class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
         {% include display-name.html type="tags" name=tag_name %} ({{ tag[1].size }})
+      </a>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="max-w-2xl mx-auto">
+  <h2 class="text-center">Photo tags</h2>
+  <div class="flex flex-wrap justify-center-safe gap-2">
+    {% assign all_photo_tags = "" | split: "" %}
+    {% for post in site.posts %}
+      {% for photo in post.photos %}
+        {% if photo.tags %}
+          {% assign all_photo_tags = all_photo_tags | concat: photo.tags %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% assign unique_tags = all_photo_tags | uniq | sort %}
+    {% for tag in unique_tags %}
+      {% assign count = all_photo_tags | where_exp: "t", "t == tag" | size %}
+      <a href="{{ tag | slugify | prepend: '/photos/' | append: '/' | relative_url }}"
+        class="bg-taupe-400 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
+        {% include display-name.html type="tags" name=tag %} ({{ count }})
       </a>
     {% endfor %}
   </div>
