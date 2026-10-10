@@ -59,7 +59,12 @@ layout: default
 {% if page.photos %}
   <section class="mt-12 columns-2 gap-4 md:columns-3 not-prose">
     {% for photo in page.photos %}
-      <img class="mb-4 w-full break-inside-avoid rounded" src="{{ photo.src | relative_url }}" alt="{{ photo.alt }}" loading="lazy" decoding="async">
+      <a href="{{ photo.src | relative_url }}" data-lightbox="gallery" data-caption="{{ photo.alt }}">
+        <img class="mb-4 w-full break-inside-avoid rounded"
+          src="{{ photo.src | relative_url }}"
+          alt="{{ photo.alt }}"
+          loading="lazy" decoding="async">
+      </a>
     {% endfor %}
   </section>
 
