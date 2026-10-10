@@ -3,7 +3,7 @@ layout: post
 title: "AROCA Meeting"
 location: Rosanna
 categories: shows
-tags: [meets,club]
+tags: []
 
 image: /assets/images/2026-08-22-AROCA-Rosanna/001.jpg
 

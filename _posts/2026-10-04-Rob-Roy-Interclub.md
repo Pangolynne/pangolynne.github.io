@@ -3,7 +3,7 @@ layout: post
 title: "Rob Roy Interclub Meeting"
 location: Rob Roy Hillclimb
 categories: motorsport
-tags: [hillclimb,classics,]
+tags: [hillclimb,robroy]
 
 image: /assets/images/2026-10-04-Rob-Roy-Interclub/052.jpg
 
@@ -122,4 +122,26 @@ photos:
     tags: [tesla]
   - src: /assets/images/2026-10-04-Rob-Roy-Interclub/057.jpg
     tags: [mercedes]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/058.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/059.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/060.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/061.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/062.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/063.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/064.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/065.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/066.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/067.jpg
+    tags: [mg]
+  - src: /assets/images/2026-10-04-Rob-Roy-Interclub/068.jpg
+    tags: [mg]
 ---

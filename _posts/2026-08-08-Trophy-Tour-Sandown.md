@@ -3,7 +3,7 @@ layout: post
 title: "Sandown,Trophy Tour"
 location: Sandown
 categories: motorsport
-tags: [circuit,]
+tags: [circuit,sandown]
 
 image: /assets/images/2026-08-08-Trophy-Tour-Sandown/040.jpg
 

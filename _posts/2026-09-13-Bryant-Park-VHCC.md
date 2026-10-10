@@ -3,7 +3,7 @@ layout: post
 title: "Bryant Park, Victorian Hillclimb Championship"
 location: Bryant Park
 categories: motorsport
-tags: [hillclimb]
+tags: [hillclimb,bryantpark]
 
 image: /assets/images/2026-09-13-Bryant-Park-VHCC/001.jpg
 

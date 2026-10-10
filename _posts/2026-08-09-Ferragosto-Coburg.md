@@ -3,7 +3,7 @@ layout: post
 title: "Ferragosto"
 location: Coburg
 categories: shows
-tags: [meets,italian]
+tags: []
 
 image: /assets/images/2026-08-09-Ferragosto-Coburg/004.jpg
 

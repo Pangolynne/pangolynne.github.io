@@ -3,7 +3,7 @@ layout: post
 title: "Acland Street Car Show"
 location: St Kilda
 categories: shows
-tags: [meets]
+tags: [stkilda]
 
 image: /assets/images/2026-09-06-Acland-St-Car-Show/005.jpg
 

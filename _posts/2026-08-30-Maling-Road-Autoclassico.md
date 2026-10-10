@@ -3,7 +3,7 @@ layout: post
 title: "Maling Road Autoclassico"
 location: Maling Road
 categories: shows
-tags: [classics,meets]
+tags: [malingroad]
 
 image: /assets/images/2026-08-30-Maling-Road-Autoclassico/005.jpg
 
