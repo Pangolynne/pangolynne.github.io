@@ -5,7 +5,7 @@ location: Bryant Park
 categories: motorsport
 tags: [bryantpark,khanacross]
 
-image: /assets/images/2026-07-12-Bryant-Park-Khanacross/002.jpg
+image: /assets/images/2026-07-12-Bryant-Park-Khanacross/076.jpg
 
 photos:
   - src: /assets/images/2026-07-12-Bryant-Park-Khanacross/001.jpg
