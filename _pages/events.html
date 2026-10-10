@@ -10,8 +10,6 @@ title: Events
     <h2 class="mb-2 text-center">{{ year.name }}</h2>
     <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 not-prose">
     {% for post in year.items %}
-      {% include randomiser.html %}
-      
       {% include card.html post=post %}
     {% endfor %}
     </div>

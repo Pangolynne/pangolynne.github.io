@@ -2,7 +2,7 @@
 layout: post
 title: "Moorabbin Cars & Coffee"
 location: Moorabbin
-categories: Shows
+categories: shows
 tags: [carmeet,]
 
 image: /assets/images/2026-09-20-Moorabbin-Cars-&-Coffee/001.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Mr Excited Car Show"
 location: Manhattan Hotel
-categories: Shows
+categories: shows
 tags: [meets]
 
 image: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/009.jpg

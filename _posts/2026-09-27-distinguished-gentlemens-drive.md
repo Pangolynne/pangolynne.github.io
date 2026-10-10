@@ -2,7 +2,7 @@
 layout: post
 title: "The Distinguished Gentleman's Drive"
 location: Marque Collective
-categories: Shows
+categories: shows
 tags: [classics,carmeet]
 
 image: /assets/images/2026-09-27-distinguished-gentlemans-drive/012.jpg
