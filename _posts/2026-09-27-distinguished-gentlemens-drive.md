@@ -2,34 +2,64 @@
 layout: post
 title: "The Distinguished Gentleman's Drive"
 location: Marque Collective
-categories: meets
-tags: [classics,cruises,fundraiser]
+categories: Shows
+tags: [classics,carmeet]
 
-image: /assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg
+image: /assets/images/2026-09-27-distinguished-gentlemans-drive/012.jpg
 
 photos:
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/01.jpg
-    tags: [dodge]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/02.jpg
-    tags: [porsche,mercedes]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/03.jpg
-    tags: [alfaromeo]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/04.jpg
-    tags: [chevrolet]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/05.jpg
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/012.jpg
+    tags: [cadillac,mercedes,porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/001.jpg
     tags: [porsche]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/06.jpg
-    tags: [triumph]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/07.jpg
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/002.jpg
+    tags: []
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/003.jpg
+    tags: [cadillac]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/004.jpg
+    tags: [landrover]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/005.jpg
+    tags: [landrover]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/007.jpg
+    tags: [volco,bmw]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/008.jpg
     tags: [ford]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/08.jpg
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/009.jpg
+    tags: [ford]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/010.jpg
+    tags: [cadillac,mercedes]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/011.jpg
+    tags: [porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/013.jpg
+    tags: [mercedes]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/014.jpg
+    tags: [volvo]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/015.jpg
+    tags: [triumph]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/016.jpg
+    tags: [rollsroyce]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/017.jpg
+    tags: [shelby,ford]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/018.jpg
+    tags: [bmw,volvo]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/019.jpg
+    tags: [dodge]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/020.jpg
+    tags: [mercedes,porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/021.jpg
+    tags: [alfaromeo]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/022.jpg
+    tags: [chevrolet,volvo]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/023.jpg
+    tags: [porsche]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/024.jpg
+    tags: [triumph]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/025.jpg
+    tags: [ford]
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/026.jpg
     tags: [bmw,porsche]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/09.jpg
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/027.jpg
     tags: [jaguar,cadillac,mercedes]
-  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/10.jpg
+  - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/028.jpg
     tags: [shelby]
 ---
-
-An on-road motoring fundraising event, uniting classic cars built 40 years or older, encouraging drivers and passengers around the world to dress dapper and drive for men's health.
-
-Always fortunate with the weather over at [@marquecollective_](https://instagram.com/marquecollective_) , this time for the [#DGD2026](https://www.instagram.com/explore/search/keyword/?q=%23dgd2026). I hope everyone had a lovely cruise, I wish I could've tagged along for more photos!
