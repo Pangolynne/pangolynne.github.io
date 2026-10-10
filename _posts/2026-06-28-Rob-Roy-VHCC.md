@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rob Roy, Victorian Hillclimb Championship"
-location: Rob Roy
+location: Rob Roy Hillclimb
 categories: motorsport
 tags: [robroy,hillclimb]
 

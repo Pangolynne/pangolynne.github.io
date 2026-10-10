@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sandown,Trophy Tour"
-location: Sandown
+location: Sandown Raceway
 categories: motorsport
 tags: [circuit,sandown]
 

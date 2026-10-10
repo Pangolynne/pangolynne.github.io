@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Model Expo"
-location: Sandown
+location: Sandown Raceway
 categories: other
 tags: []
 
