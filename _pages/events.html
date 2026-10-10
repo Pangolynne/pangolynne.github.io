@@ -4,7 +4,7 @@ title: Events
 ---
 
 <section>
-  <h1 class="text-center">Events I've shot</h1>
+  <h1 class="text-center">All Events</h1>
   {% assign by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
   {% for year in by_year %}
     <h2 class="mb-2 text-center">{{ year.name }}</h2>

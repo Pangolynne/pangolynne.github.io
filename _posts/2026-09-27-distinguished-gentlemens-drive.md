@@ -21,7 +21,7 @@ photos:
   - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/005.jpg
     tags: [landrover]
   - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/007.jpg
-    tags: [volco,bmw]
+    tags: [volvo,bmw]
   - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/008.jpg
     tags: [ford]
   - src: /assets/images/2026-09-27-distinguished-gentlemans-drive/009.jpg
