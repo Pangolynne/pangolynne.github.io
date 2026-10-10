@@ -38,4 +38,4 @@ photos:
     tags: [nissan]
   - src: /assets/images/2026-06-06-Hula-Garage/015.jpg
     tags: [toyota]
-  ---
+---

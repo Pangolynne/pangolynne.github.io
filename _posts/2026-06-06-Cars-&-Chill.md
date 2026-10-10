@@ -54,4 +54,4 @@ photos:
     tags: [subaru]
   - src: /assets/images/2026-06-06-Cars-&-Chill/023.jpg
     tags: [holden]
-  ---
+---

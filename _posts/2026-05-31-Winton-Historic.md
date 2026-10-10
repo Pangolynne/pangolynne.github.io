@@ -128,4 +128,4 @@ photos:
     tags: [vee]
   - src: /assets/images/2026-05-31-Winton-Historic/062.jpg
     tags: [mg]
-  ---
+---
