@@ -2,7 +2,7 @@
 layout: post
 title: "Cars & Culture"
 location: St Kilda
-categories: Shows
+categories: shows
 tags: [meets]
 
 image: /assets/images/2026-08-16-Cars-&-Culture/005.jpg

@@ -20,7 +20,7 @@ layout: default
     <div class="text-sm pt-4 flex flex-wrap justify-center-safe gap-1">
       {% if page.categories %}
         {% for category in page.categories %}
-          <a href="{{ '/category/' | append: category | relative_url }}"
+          <a href="{{ '/category/' | append: category | downcase | relative_url }}"
             class="border border-taupe-400/80 hover:border-green-800 rounded-sm py-1 px-2 no-underline text-taupe-400">
             🗃️ {% include display-name.html type="categories" name=category %}
           </a>
@@ -28,7 +28,7 @@ layout: default
       {% endif %}
       {% if page.tags %}
         {% for tag in page.tags %}
-          <a href="{{ '/tag/' | append: tag | relative_url }}"
+          <a href="{{ '/tag/' | append: tag | downcase | relative_url }}"
             class="bg-taupe-500 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline">
             🏷️ {% include display-name.html type="tags" name=tag %}
           </a>
@@ -46,7 +46,7 @@ layout: default
       {% if post_tags.size > 0 %}
         <!-- <span class="py-1 px-2 text-taupe-400">sdf</span> -->
         {% for tag in post_tags %}
-          <a href="{{ tag | slugify | prepend: '/photos/' | append: '/' | relative_url }}"
+          <a href="{{ tag | slugify | prepend: '/photos/' | append: '/' | downcase | relative_url }}"
             class="bg-taupe-400/80 hover:bg-green-800 text-neutral-900 hover:text-neutral-200 rounded-sm py-1 px-2 no-underline capitalize">
             🚗 {% include display-name.html type="tags" name=tag %}
           </a>
