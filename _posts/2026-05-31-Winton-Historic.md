@@ -3,7 +3,7 @@ layout: post
 title: "Historic Winton"
 location: Winton Raceway
 categories: motorsport
-tags: [winton]
+tags: [winton,circuit]
 
 image: /assets/images/2026-05-31-Winton-Historic/033.jpg
 
