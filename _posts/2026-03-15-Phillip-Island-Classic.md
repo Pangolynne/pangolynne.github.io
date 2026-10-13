@@ -155,7 +155,7 @@ photos:
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/078.jpg
     tags: [chevrolet,ford]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/079.jpg
-    tags: ford[]
+    tags: [ford]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/080.jpg
     tags: [openwheel]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/081.jpg
