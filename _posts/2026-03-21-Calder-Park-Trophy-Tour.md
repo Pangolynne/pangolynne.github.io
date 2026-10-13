@@ -3,7 +3,7 @@ layout: post
 title: "Calder Park, Trophy Tour"
 location: Calder Park
 categories: motorsport
-tags: [ircuit,calderpark]
+tags: [circuit,calderpark]
 
 image: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/005.jpg
 
