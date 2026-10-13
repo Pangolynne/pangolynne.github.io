@@ -83,7 +83,7 @@ photos:
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/037.jpg
     tags: [holden]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/039.jpg
-    tags: [bmw]
+    tags: [bmw,fav]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/040.jpg
     tags: [holden]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/041.jpg

@@ -53,7 +53,7 @@ photos:
   - src: /assets/images/2026-09-13-Bryant-Park-VHCC/022.jpg
     tags: [renault]
   - src: /assets/images/2026-09-13-Bryant-Park-VHCC/023.jpg
-    tags: [mazda]
+    tags: [mazda,fav]
   - src: /assets/images/2026-09-13-Bryant-Park-VHCC/024.jpg
     tags: [mitsubishi]
   - src: /assets/images/2026-09-13-Bryant-Park-VHCC/025.jpg

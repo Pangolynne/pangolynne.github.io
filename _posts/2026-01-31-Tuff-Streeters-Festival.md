@@ -63,7 +63,7 @@ photos:
   - src: /assets/images/2026-01-31-Tuff-Streeters-Festival/027.jpg
     tags: [holden]
   - src: /assets/images/2026-01-31-Tuff-Streeters-Festival/028.jpg
-    tags: [nissan,bmw]
+    tags: [nissan,bmw,fav]
   - src: /assets/images/2026-01-31-Tuff-Streeters-Festival/029.jpg
     tags: [lamborghini,bmw]
   - src: /assets/images/2026-01-31-Tuff-Streeters-Festival/030.jpg

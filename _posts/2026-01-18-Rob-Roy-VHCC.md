@@ -9,7 +9,7 @@ image: /assets/images/2026-01-18-Rob-Roy-VHCC/036.jpg
 
 photos:
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/001.jpg
-    tags: [libre]
+    tags: [libre,fav]
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/002.jpg
     tags: [libre]
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/003.jpg

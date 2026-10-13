@@ -53,7 +53,7 @@ photos:
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/023.jpg
     tags: [formulaford]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/024.jpg
-    tags: [ford,valiant]
+    tags: [ford,valiant,fav]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/025.jpg
     tags: [ford]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/026.jpg

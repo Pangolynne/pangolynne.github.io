@@ -35,7 +35,7 @@ photos:
   - src: /assets/images/2026-07-18-VicDrift-Rd2/013.jpg
     tags: [nissan,holden]
   - src: /assets/images/2026-07-18-VicDrift-Rd2/014.jpg
-    tags: [nissan]
+    tags: [nissan,fav]
   - src: /assets/images/2026-07-18-VicDrift-Rd2/015.jpg
     tags: [bmw]
   - src: /assets/images/2026-07-18-VicDrift-Rd2/016.jpg

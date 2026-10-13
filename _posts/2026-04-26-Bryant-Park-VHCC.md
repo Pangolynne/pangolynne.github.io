@@ -119,7 +119,7 @@ photos:
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/055.jpg
     tags: [honda]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/056.jpg
-    tags: [mitsubishi]
+    tags: [mitsubishi,fav]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/057.jpg
     tags: [libre]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/058.jpg

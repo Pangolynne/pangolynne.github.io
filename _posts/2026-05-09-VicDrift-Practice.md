@@ -51,7 +51,7 @@ photos:
   - src: /assets/images/2026-05-09-VicDrift-Practice/021.jpg
     tags: [nissan]
   - src: /assets/images/2026-05-09-VicDrift-Practice/022.jpg
-    tags: [nissan,bmw]
+    tags: [nissan,bmw,fav]
   - src: /assets/images/2026-05-09-VicDrift-Practice/023.jpg
     tags: [bmw]
   - src: /assets/images/2026-05-09-VicDrift-Practice/024.jpg

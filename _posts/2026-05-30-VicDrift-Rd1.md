@@ -85,7 +85,7 @@ photos:
   - src: /assets/images/2026-05-30-VicDrift-Rd1/038.jpg
     tags: [toyota]
   - src: /assets/images/2026-05-30-VicDrift-Rd1/039.jpg
-    tags: [chevrolet,nissan]
+    tags: [chevrolet,nissan,fav]
   - src: /assets/images/2026-05-30-VicDrift-Rd1/040.jpg
     tags: [bmw]
   - src: /assets/images/2026-05-30-VicDrift-Rd1/041.jpg

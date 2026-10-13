@@ -41,7 +41,7 @@ photos:
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/017.jpg
     tags: [ferrari]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/018.jpg
-    tags: [porsche]
+    tags: [porsche,fav]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/019.jpg
     tags: [lola]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/020.jpg
@@ -239,7 +239,7 @@ photos:
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/125.jpg
     tags: [formulaford]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/126.jpg
-    tags: [datsun,alfaromeo]
+    tags: [datsun,alfaromeo,fav]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/127.jpg
     tags: [mclaren]
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/128.jpg
