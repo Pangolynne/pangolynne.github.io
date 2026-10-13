@@ -21,7 +21,7 @@ photos:
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/006.jpg
     tags: [mazda]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/007.jpg
-    tags: [Chevrolet,bicycle]
+    tags: [chevrolet,bicycle]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/008.jpg
     tags: [nissan]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/009.jpg
