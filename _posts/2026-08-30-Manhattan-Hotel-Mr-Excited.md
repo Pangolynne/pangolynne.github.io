@@ -9,11 +9,11 @@ image: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/009.jpg
 
 photos:
   - src: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/001.jpg
-    tags: [Ford]
+    tags: [ford]
   - src: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/002.jpg
-    tags: [Mazda]
+    tags: [mazda]
   - src: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/003.jpg
-    tags: [Ford]
+    tags: [ford]
   - src: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/004.jpg
     tags: [studebaker]
   - src: /assets/images/2026-08-30-Manhattan-Hotel-Mr-Excited/005.jpg
