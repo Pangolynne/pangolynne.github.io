@@ -5,7 +5,7 @@ location: Newport
 categories: other
 tags: []
 
-image: /assets/images/assets/images/2026-03-08-Steamrail/008.jpg
+image: /assets/images/2026-03-08-Steamrail/008.jpg
 
 photos:
   - src: /assets/images/2026-03-08-Steamrail/001.jpg

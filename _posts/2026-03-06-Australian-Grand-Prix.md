@@ -5,7 +5,7 @@ location: Albert Park
 categories: motorsport
 tags: [circuit,albertpark]
 
-image: /assets/images/assets/images/2026-03-06-Australian-Grand-Prix/002.jpg
+image: /assets/images/2026-03-06-Australian-Grand-Prix/002.jpg
 
 photos:
   - src: /assets/images/2026-03-06-Australian-Grand-Prix/001.jpg

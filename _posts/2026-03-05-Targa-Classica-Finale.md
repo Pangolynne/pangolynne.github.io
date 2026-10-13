@@ -5,7 +5,7 @@ location: Melbourne Park
 categories: shows
 tags: []
 
-image: /assets/assets/images/2026-03-05-Targa-Classica-Finale/005.jpg
+image: /assets/images/2026-03-05-Targa-Classica-Finale/005.jpg
 
 photos:
   - src: /assets/images/2026-03-05-Targa-Classica-Finale/001.jpg
