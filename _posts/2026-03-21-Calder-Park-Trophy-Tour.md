@@ -29,7 +29,7 @@ photos:
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/010.jpg
     tags: [formulaford]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/011.jpg
-    tags: [formuldaford]
+    tags: [formulaford]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/012.jpg
     tags: [honda]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/013.jpg
@@ -103,7 +103,7 @@ photos:
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/048.jpg
     tags: [holden]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/049.jpg
-    tags: [madza]
+    tags: [mazda]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/050.jpg
     tags: [mg]
   - src: /assets/images/2026-03-21-Calder-Park-Trophy-Tour/051.jpg

@@ -19,9 +19,9 @@ photos:
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/005.jpg
     tags: [honda]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/006.jpg
-    tags: [mada]
+    tags: [mazda]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/007.jpg
-    tags: [hevrolet,bicycle]
+    tags: [Chevrolet,bicycle]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/008.jpg
     tags: [nissan]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/009.jpg
@@ -45,7 +45,7 @@ photos:
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/018.jpg
     tags: [honda]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/019.jpg
-    tags: [mada]
+    tags: [mazda]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/020.jpg
     tags: [mitsubishi]
   - src: /assets/images/2026-04-11-Melbourne-Motor-Show/021.jpg

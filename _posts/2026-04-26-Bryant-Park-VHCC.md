@@ -177,7 +177,7 @@ photos:
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/084.jpg
     tags: [datsun]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/085.jpg
-    tags: [madza]
+    tags: [mazda]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/086.jpg
     tags: [bmw]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/087.jpg
@@ -227,7 +227,7 @@ photos:
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/109.jpg
     tags: [ford]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/110.jpg
-    tags: [suzzuki]
+    tags: [suzuki]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/111.jpg
     tags: [datsun]
 ---

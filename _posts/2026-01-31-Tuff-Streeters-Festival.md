@@ -3,7 +3,7 @@ layout: post
 title: "Tuff Streeters Festival"
 location: Calder Park
 categories: shows
-tags: [calder,drift]
+tags: [calderpark,drift]
 
 image: /assets/images/2026-01-31-Tuff-Streeters-Festival/021.jpg
 

@@ -39,7 +39,7 @@ photos:
   - src: /assets/images/2026-02-15-AOMC-European-Show/015.jpg
     tags: [triumph]
   - src: /assets/images/2026-02-15-AOMC-European-Show/016.jpg
-    tags: [morgen]
+    tags: [morgan]
   - src: /assets/images/2026-02-15-AOMC-European-Show/017.jpg
     tags: [jensen]
   - src: /assets/images/2026-02-15-AOMC-European-Show/018.jpg

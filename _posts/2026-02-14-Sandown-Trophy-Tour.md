@@ -49,7 +49,7 @@ photos:
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/021.jpg
     tags: [mazda]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/022.jpg
-    tags: [mada]
+    tags: [mazda]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/023.jpg
     tags: [formulaford]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/024.jpg
@@ -57,9 +57,9 @@ photos:
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/025.jpg
     tags: [ford]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/026.jpg
-    tags: [mazdza]
+    tags: [mazda]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/027.jpg
-    tags: [ford,chrysler]
+    tags: [ford,valiant]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/028.jpg
     tags: [triumph,mg]
   - src: /assets/images/2026-02-14-Sandown-Trophy-Tour/029.jpg
