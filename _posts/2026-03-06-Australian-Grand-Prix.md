@@ -71,4 +71,3 @@ photos:
   - src: /assets/images/2026-03-06-Australian-Grand-Prix/031.jpg
     tags: [ford]
 ---
-

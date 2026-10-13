@@ -255,4 +255,3 @@ photos:
   - src: /assets/images/2026-03-15-Phillip-Island-Classic/133.jpg
     tags: [holden,ford,chevrolet]
 ---
-

@@ -39,4 +39,3 @@ photos:
   - src: /assets/images/2026-03-08-Steamrail/015.jpg
     tags: []
 ---
-
