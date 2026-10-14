@@ -41,7 +41,7 @@ photos:
   - src: /assets/images/2025-12-07-Marque-Collective/016.jpg
     tags: [holden]
   - src: /assets/images/2025-12-07-Marque-Collective/017.jpg
-    tags: []mitsubishi
+    tags: [mitsubishi]
   - src: /assets/images/2025-12-07-Marque-Collective/018.jpg
     tags: [holden]
   - src: /assets/images/2025-12-07-Marque-Collective/019.jpg
