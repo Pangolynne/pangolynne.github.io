@@ -19,7 +19,7 @@ photos:
   - src: /assets/images/2025-06-29-Rob-Roy-VHCC/005.jpg
     tags: [datsun]
   - src: /assets/images/2025-06-29-Rob-Roy-VHCC/006.jpg
-    tags: []mazda
+    tags: [mazda]
   - src: /assets/images/2025-06-29-Rob-Roy-VHCC/007.jpg
     tags: [subaru]
   - src: /assets/images/2025-06-29-Rob-Roy-VHCC/008.jpg
