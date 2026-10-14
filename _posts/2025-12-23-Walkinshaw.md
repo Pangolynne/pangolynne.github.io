@@ -33,7 +33,7 @@ photos:
   - src: /assets/images/2025-12-23-Walkinshaw/012.jpg
     tags: [ford]
   - src: /assets/images/2025-12-23-Walkinshaw/013.jpg
-    tags: bolwell[]
+    tags: [bolwell]
   - src: /assets/images/2025-12-23-Walkinshaw/014.jpg
     tags: [holden]
   - src: /assets/images/2025-12-23-Walkinshaw/015.jpg
