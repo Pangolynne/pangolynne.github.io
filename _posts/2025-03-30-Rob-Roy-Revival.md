@@ -53,7 +53,7 @@ photos:
   - src: /assets/images/2025-03-30-Rob-Roy-Revival/022.jpg
     tags: [ford]
   - src: /assets/images/2025-03-30-Rob-Roy-Revival/023.jpg
-    tags: [holden]
+    tags: [holden,fav]
   - src: /assets/images/2025-03-30-Rob-Roy-Revival/024.jpg
     tags: [ford]
   - src: /assets/images/2025-03-30-Rob-Roy-Revival/025.jpg

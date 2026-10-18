@@ -19,7 +19,7 @@ photos:
   - src: /assets/images/2025-05-10-Cars-&-Culture/005.jpg
     tags: [bmw]
   - src: /assets/images/2025-05-10-Cars-&-Culture/006.jpg
-    tags: [buik]
+    tags: [buick]
   - src: /assets/images/2025-05-10-Cars-&-Culture/007.jpg
     tags: [plymouth]
   - src: /assets/images/2025-05-10-Cars-&-Culture/008.jpg
