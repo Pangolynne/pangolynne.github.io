@@ -82,4 +82,6 @@ photos:
     tags: []
   - src: /assets/images/2025-03-23-Ripponlea-Concours/037.jpg
     tags: []
+  - src: /assets/images/2025-03-23-Ripponlea-Concours/038.jpg
+    tags: [maserati,mercedes]
 ---

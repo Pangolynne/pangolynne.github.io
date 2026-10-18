@@ -28,4 +28,6 @@ photos:
     tags: [datsun]
   - src: /assets/images/2025-06-29-Rob-Roy-VHCC/010.jpg
     tags: [holden]
+  - src: /assets/images/2025-06-29-Rob-Roy-VHCC/011.jpg
+    tags: [ford]
 ---
