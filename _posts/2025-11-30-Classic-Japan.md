@@ -29,7 +29,7 @@ photos:
   - src: /assets/images/2025-11-30-Classic-Japan/010.jpg
     tags: [toyota]
   - src: /assets/images/2025-11-30-Classic-Japan/011.jpg
-    tags: [madza]
+    tags: [mazda]
   - src: /assets/images/2025-11-30-Classic-Japan/012.jpg
     tags: [honda]
   - src: /assets/images/2025-11-30-Classic-Japan/013.jpg
