@@ -153,7 +153,7 @@ photos:
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/078.jpg
     tags: [vee]
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/079.jpg
-    tags: [clubman]
+    tags: [libre]
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/080.jpg
     tags: [bmw]
   - src: /assets/images/2026-01-18-Rob-Roy-VHCC/081.jpg

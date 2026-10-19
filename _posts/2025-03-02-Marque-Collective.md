@@ -28,4 +28,10 @@ photos:
     tags: [pontiac]
   - src: /assets/images/2025-03-02-Marque-Collective/010.jpg
     tags: [mitsubishi,toyota,holden]
+  - src: /assets/images/2025-03-02-Marque-Collective/011.jpg
+    tags: [mercury]
+  - src: /assets/images/2025-03-02-Marque-Collective/012.jpg
+    tags: [ford]
+  - src: /assets/images/2025-03-02-Marque-Collective/013.jpg
+    tags: [holden]
 ---

@@ -28,4 +28,16 @@ photos:
     tags: [saab]
   - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/010.jpg
     tags: [ford,holden]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/011.jpg
+    tags: [mitsubishi]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/012.jpg
+    tags: [ford]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/013.jpg
+    tags: [vauxhall]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/014.jpg
+    tags: [mini]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/015.jpg
+    tags: [mitsubishi,subaru]
+  - src: /assets/images/2025-02-15-Rally-Cars-&-Coffee/016.jpg
+    tags: [citroen]
 ---

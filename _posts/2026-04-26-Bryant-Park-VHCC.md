@@ -105,7 +105,7 @@ photos:
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/048.jpg
     tags: [mazda]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/049.jpg
-    tags: [clubman]
+    tags: [libre]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/050.jpg
     tags: [honda]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/051.jpg
@@ -219,7 +219,7 @@ photos:
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/105.jpg
     tags: [honda]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/106.jpg
-    tags: [clubman]
+    tags: [libre]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/107.jpg
     tags: [bmw]
   - src: /assets/images/2026-04-26-Bryant-Park-VHCC/108.jpg

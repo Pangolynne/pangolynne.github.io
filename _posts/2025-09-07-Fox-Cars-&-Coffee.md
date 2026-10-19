@@ -28,4 +28,18 @@ photos:
     tags: [lamborghini]
   - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/010.jpg
     tags: [holden]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/011.jpg
+    tags: [ferrari]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/012.jpg
+    tags: [lamborghini,mercedes]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/013.jpg
+    tags: [toyota,ferrari]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/014.jpg
+    tags: [alpine]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/015.jpg
+    tags: []
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/016.jpg
+    tags: [bmw]
+  - src: /assets/images/2025-09-07-Fox-Cars-&-Coffee/017.jpg
+    tags: [lamborghini]
 ---

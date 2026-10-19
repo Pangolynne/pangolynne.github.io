@@ -28,4 +28,12 @@ photos:
     tags: []
   - src: /assets/images/2025-04-06-Melbourne-Motor-Show/010.jpg
     tags: [tesla]
+  - src: /assets/images/2025-04-06-Melbourne-Motor-Show/011.jpg
+    tags: [f1]
+  - src: /assets/images/2025-04-06-Melbourne-Motor-Show/012.jpg
+    tags: [jac]
+  - src: /assets/images/2025-04-06-Melbourne-Motor-Show/013.jpg
+    tags: [tesla]
+  - src: /assets/images/2025-04-06-Melbourne-Motor-Show/014.jpg
+    tags: [porsche,ferrari]
 ---
