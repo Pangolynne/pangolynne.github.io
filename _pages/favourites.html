@@ -1,0 +1,90 @@
+---
+layout: default
+title: Favourites
+---
+
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% for photo in post.photos %}
+    {% if photo.tags contains 'fav' %}
+      {% assign count = count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<h1 class="text-center font-bold mb-0!">
+  My favourite photos
+</h1>
+
+<p class="text-center text-neutral-400 mt-2!">
+  {{ count }} {% if paginator.total_posts == 1 %}photo{% else %}photos{% endif %}
+</p>
+
+<section class="mt-12 columns-1 sm:columns-2 gap-4 md:columns-3 not-prose">
+  {% for post in site.posts %}
+    {% for photo in post.photos %}
+      {% if photo.tags contains 'fav' %}
+        <div class="rounded bg-taupe-600/80 break-inside-avoid mb-4">
+          <a href="{{ photo.src | relative_url }}"
+            data-lightbox="gallery"
+            data-caption="
+              <div class='p-2 text-sm'>
+                <div class='flex mb-2'>
+                  <span class='mr-2'>📸</span>
+                  <a href='{{ post.url | relative_url }}'
+                  class='underline decoration-1 hover:decoration-2 hover:decoration-green-800 font-bold'>
+                  {{ post.title }}</a>
+                </div>
+                <div class='text-neutral-400'>
+                  {% if post.location %}
+                    <div class='flex'>
+                      <span class='mr-2'>📍</span>
+                      <span>{{ post.location }}</span>
+                    </div>
+                  {% endif %}
+                  <div class='flex'>
+                    <span class='mr-2'>📆</span>
+                    <time datetime='{{ post.date | date_to_xmlschema }}'>
+                      {{ post.date | date: '%B %-d, %Y' }}
+                    </time>
+                  </div>
+                </div>
+              </div>
+            ">
+            <img class="w-full rounded-t"
+              src="{{ photo.src | relative_url }}"
+              alt="{{ photo.alt }}"
+              loading="lazy" decoding="async">
+          </a>
+          <div class="p-2 text-sm">
+            <div class="flex">
+              <span class="mr-2">📸</span>
+              <a href="{{ post.url | relative_url }}" 
+              class="underline decoration-1 hover:decoration-2 hover:decoration-green-800 font-bold">
+              {{ post.title }}</a>
+            </div>
+            <div class="text-neutral-400">
+              {% if post.location %}
+                <div class="flex">
+                  <span class="mr-2">📍</span>
+                  <span>{{ post.location }}</span>
+                </div>
+              {% endif %}
+              <div class="flex">
+                <span class="mr-2">📆</span>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                  {{ post.date | date: "%B %-d, %Y" }}
+                </time>
+              </div>
+            </div>
+          </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</section>
+
+<section class="mt-18 max-w-2xl mx-auto bg-taupe-400 prose rounded-md py-4 px-6">
+  <h3 class="mt-0! mb-2!">Saw a photo you'd like a copy of?</h3>
+  <p class="mb-0!">I sell my photos individually or as bundles, <a href="{{ '/contact' | relative_url }}">reach out to me</a> to enquire about getting a copy for yourself.</p>
+</section>
