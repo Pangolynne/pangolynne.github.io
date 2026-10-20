@@ -71,7 +71,7 @@ photos:
   - src: /assets/images/2024-05-18-Spa-Classic/031.jpg
     tags: [lola]
   - src: /assets/images/2024-05-18-Spa-Classic/032.jpg
-    tags: [lola]
+    tags: [mclaren,fav]
   - src: /assets/images/2024-05-18-Spa-Classic/033.jpg
     tags: [ferrari]
   - src: /assets/images/2024-05-18-Spa-Classic/034.jpg
@@ -103,7 +103,7 @@ photos:
   - src: /assets/images/2024-05-18-Spa-Classic/047.jpg
     tags: [bmw]
   - src: /assets/images/2024-05-18-Spa-Classic/048.jpg
-    tags: [bmw,chevron]
+    tags: [bmw,chevron,fav]
   - src: /assets/images/2024-05-18-Spa-Classic/049.jpg
     tags: [detomaso]
   - src: /assets/images/2024-05-18-Spa-Classic/050.jpg
@@ -141,7 +141,7 @@ photos:
   - src: /assets/images/2024-05-18-Spa-Classic/066.jpg
     tags: [jaguar]
   - src: /assets/images/2024-05-18-Spa-Classic/067.jpg
-    tags: [peugeot]
+    tags: [peugeot,fav]
   - src: /assets/images/2024-05-18-Spa-Classic/068.jpg
     tags: [chevrolet]
   - src: /assets/images/2024-05-18-Spa-Classic/069.jpg
