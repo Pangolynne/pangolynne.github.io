@@ -23,7 +23,7 @@ photos:
   - src: /assets/images/2024-04-21-Compello-Versus/007.jpg
     tags: [chevrolet]
   - src: /assets/images/2024-04-21-Compello-Versus/008.jpg
-    tags: [mazzda]
+    tags: [mazda]
   - src: /assets/images/2024-04-21-Compello-Versus/009.jpg
     tags: [harley]
   - src: /assets/images/2024-04-21-Compello-Versus/010.jpg
