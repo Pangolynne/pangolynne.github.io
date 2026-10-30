@@ -5,7 +5,7 @@ location: Sandown Park
 categories: motorsport
 tags: [circuit,sandown]
 
-image: /assets/images/2023-03-11-Phillip-Island-Classic/090.jpg
+image: /assets/images/2026-10-30-Shannons-SpeedSeries/011.jpg
 
 photos:
   - src: /assets/images/2026-10-30-Shannons-SpeedSeries/001.jpg
