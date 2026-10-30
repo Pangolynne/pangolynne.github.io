@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shannons Speed Series"
+title: "Sandown, Shannons Speed Series"
 location: Sandown Park
 categories: motorsport
 tags: [sandown]
