@@ -3,7 +3,7 @@ layout: post
 title: "Calder Park, Drift Cadet Sunday Session"
 location: Calder Park
 categories: motorsport
-tags: [drift,calder]
+tags: [drift,calderpark]
 
 image: /assets/images/2022-12-11-Calder-Drift/001.jpg
 
