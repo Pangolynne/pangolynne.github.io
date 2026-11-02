@@ -5,7 +5,7 @@ location: Rob Roy Hillclimb
 categories: motorsport
 tags: [hillclimb,robroy]
 
-image: /assets/images/2021-05-23-Rob-Roy-Interclub/001.jpg
+image: /assets/images/2021-05-23-Rob-Roy-Interclub/002.jpg
 
 photos:
   - src: /assets/images/2021-05-23-Rob-Roy-Interclub/001.jpg
