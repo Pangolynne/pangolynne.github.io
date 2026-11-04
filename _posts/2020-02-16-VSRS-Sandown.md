@@ -111,7 +111,7 @@ photos:
   - src: /assets/images/2020-02-16-VSRS-Sandown/051.jpg
     tags: [hyundai]
   - src: /assets/images/2020-02-16-VSRS-Sandown/052.jpg
-    tags: [hyundau]
+    tags: [hyundai]
   - src: /assets/images/2020-02-16-VSRS-Sandown/053.jpg
     tags: [hyundai]
   - src: /assets/images/2020-02-16-VSRS-Sandown/054.jpg

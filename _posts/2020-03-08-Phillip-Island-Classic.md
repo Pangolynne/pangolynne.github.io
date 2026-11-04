@@ -203,7 +203,7 @@ photos:
   - src: /assets/images/2020-03-08-Phillip-Island-Classic/097.jpg
     tags: [toyota]
   - src: /assets/images/2020-03-08-Phillip-Island-Classic/098.jpg
-    tags: [formualford]
+    tags: [formulaford]
   - src: /assets/images/2020-03-08-Phillip-Island-Classic/099.jpg
     tags: [openwheel]
   - src: /assets/images/2020-03-08-Phillip-Island-Classic/100.jpg
