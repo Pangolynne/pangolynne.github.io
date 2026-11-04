@@ -41,7 +41,7 @@ photos:
   - src: /assets/images/2020-02-22-AROCA-Sandown/016.jpg
     tags: [holden]
   - src: /assets/images/2020-02-22-AROCA-Sandown/017.jpg
-    tags: alfaromeo[]
+    tags: [alfaromeo]
   - src: /assets/images/2020-02-22-AROCA-Sandown/018.jpg
     tags: [alfaromeo]
   - src: /assets/images/2020-02-22-AROCA-Sandown/019.jpg
