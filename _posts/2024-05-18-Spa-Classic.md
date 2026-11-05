@@ -5,7 +5,7 @@ location: Spa-Francorchamps
 categories: motorsport
 tags: [europe]
 
-image: /assets/images/2024-05-18-Spa-Classic/008.jpg
+image: /assets/images/2024-05-18-Spa-Classic/039.jpg
 
 photos:
   - src: /assets/images/2024-05-18-Spa-Classic/001.jpg
