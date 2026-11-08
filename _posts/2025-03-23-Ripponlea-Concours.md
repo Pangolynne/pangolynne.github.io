@@ -3,7 +3,7 @@ layout: post
 title: "Ripponlea Concours"
 location: Rippon Lea Estate
 categories: shows
-tags: []
+tags: [ripponlea]
 
 image: /assets/images/2025-03-23-Ripponlea-Concours/010.jpg
 

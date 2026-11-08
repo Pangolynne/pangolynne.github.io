@@ -3,7 +3,7 @@ layout: post
 title: "Rippon Lea Estate, 80's Classic Car Show"
 location: Rippon Lea Estate
 categories: shows
-tags: []
+tags: [ripponlea]
 
 image: /assets/images/2026-10-18-Rippon-Lea-Estate-80s/009.jpg
 
