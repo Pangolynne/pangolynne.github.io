@@ -29,7 +29,7 @@ photos:
   - src: /assets/images/2025-02-01-Calder-Streeters/010.jpg
     tags: []
   - src: /assets/images/2025-02-01-Calder-Streeters/011.jpg
-    tags: []
+    tags: [fmx]
   - src: /assets/images/2025-02-01-Calder-Streeters/012.jpg
     tags: [holden]
   - src: /assets/images/2025-02-01-Calder-Streeters/013.jpg
@@ -51,7 +51,7 @@ photos:
   - src: /assets/images/2025-02-01-Calder-Streeters/021.jpg
     tags: [volkswagen]
   - src: /assets/images/2025-02-01-Calder-Streeters/022.jpg
-    tags: []
+    tags: [fmx]
   - src: /assets/images/2025-02-01-Calder-Streeters/023.jpg
     tags: [dodge]
   - src: /assets/images/2025-02-01-Calder-Streeters/024.jpg
