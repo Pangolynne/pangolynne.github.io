@@ -126,7 +126,7 @@ photos:
     tags: [austinhealey]
   - src: /assets/images/2019-11-24-Geelong-Revival/059.jpg
     tags: [suzuki]
-  - src: /assets/images/2019-11-24-Geelong-Revival/060.jpg
+  - src: /assets/images/2019-11-24-Geelong-Revival/060.JPG
     tags: [mini]
   - src: /assets/images/2019-11-24-Geelong-Revival/061.jpg
     tags: [toyota]
