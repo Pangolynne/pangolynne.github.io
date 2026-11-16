@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rippon Lea Estate"
+title: "Rippon Lea Estate, Ford Coupe of Australia"
 location: Rippon Lea Estate
 categories: shows
 tags: [ripponlea]
