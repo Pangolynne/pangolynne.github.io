@@ -5,7 +5,7 @@ location: Geelong
 categories: shows
 tags: [geelong]
 
-image: /assets/images/2025-11-29-Geelong-Revival/038.jpg
+image: /assets/images/2025-11-29-Geelong-Revival/039.jpg
 
 photos:
   - src: /assets/images/2025-11-29-Geelong-Revival/001.jpg
