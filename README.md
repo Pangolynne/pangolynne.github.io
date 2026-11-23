@@ -39,3 +39,13 @@ You need to do 2 things to add a new event with photos!
    ```
 
 Once you have added all your event information, you need to commit the changes and then push them up to Github. After a few minutes the post will appear on your website!
+
+## Dev setup
+
+```
+bundle exec jekyll serve --livereload
+```
+
+```
+npm run css:watch
+```
