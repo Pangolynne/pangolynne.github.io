@@ -176,4 +176,12 @@ photos:
     tags: [nissan]
   - src: /assets/images/2026-11-21-Vicdrift-DriftX/084.jpg
     tags: [bmw]
+  - src: /assets/images/2026-11-21-Vicdrift-DriftX/085.jpg
+    tags: [nissan]
+  - src: /assets/images/2026-11-21-Vicdrift-DriftX/086.jpg
+    tags: [nissan]
+  - src: /assets/images/2026-11-21-Vicdrift-DriftX/087.jpg
+    tags: [nissan]
+  - src: /assets/images/2026-11-21-Vicdrift-DriftX/088.jpg
+    tags: [nissan]
 ---
